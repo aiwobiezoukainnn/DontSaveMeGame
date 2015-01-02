@@ -16,7 +16,6 @@ MY_CPP_LIST += $(wildcard $(LOCAL_PATH)/../../Classes/*.cpp)
 MY_CPP_LIST += $(wildcard $(LOCAL_PATH)/../../Classes/Enity/*.cpp)
 MY_CPP_LIST += $(wildcard $(LOCAL_PATH)/../../Classes/Scene/*.cpp)
 MY_CPP_LIST += $(wildcard $(LOCAL_PATH)/../../Classes/Layer/*.cpp)
-MY_CPP_LIST += $(wildcard $(LOCAL_PATH)/../../cocos2d/cocos/external/json/*.cpp)
 
 
 
